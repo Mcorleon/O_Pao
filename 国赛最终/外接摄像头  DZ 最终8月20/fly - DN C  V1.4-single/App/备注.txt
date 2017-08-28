@@ -1,0 +1,19 @@
+资源使用情况
+摄像头：
+PORTA DMA通道0 DMA中断
+PORTA 外部中断
+
+NRF：
+
+编码器：DMA通道1 2 PIT0定时器
+
+超声波：PIT1定时器
+
+电机：FTM0
+舵机：FTM2
+
+TFT：
+MPU6050：IIC管脚
+OLED：
+红外管：
+
